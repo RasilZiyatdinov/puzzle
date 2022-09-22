@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/puzzle/static/css/main.b9c13a1a.css",
+    "main.js": "/puzzle/static/js/main.d3ea6eea.js",
+    "index.html": "/puzzle/index.html",
+    "main.b9c13a1a.css.map": "/puzzle/static/css/main.b9c13a1a.css.map",
+    "main.d3ea6eea.js.map": "/puzzle/static/js/main.d3ea6eea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9c13a1a.css",
+    "static/js/main.d3ea6eea.js"
+  ]
+}
